@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 title: Crepes with Strawberry Sauce
 publish: null
 ---
 ## Crepes with Strawberry Sauce
 
-![crepes-010.jpg]({{site.baseurl}}/_posts/crepes-010.jpg)
+![Crepes with strawberry sauce, whipped cream, and grated chocolate]({% asset_path crepes-010.jpg %})
 
 It's important to keep health in mind for the Most Important Meal of the Day™, but when my refrigerator won't stop running, I have to start with something sweet to make the morning a Little Bit Happier. That something is crepes filled with a warm strawberry sauce and cool whipped cream, garnished with grated chocolate.
 
@@ -27,3 +27,5 @@ The strawberries will begin to soften within 5 minutes. Continue once it begins 
 This stuff is amazing when it's still hot, but make sure to wrap up the leftovers for later. It's great on crepes, pancakes, waffles, you name it.
 
 ### Crepe batter
+
+to be continued ! (testing things)
