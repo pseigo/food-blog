@@ -5,13 +5,11 @@ publish: null
 categories: breakfast desert
 tags: breakfast desert strawberry crepes "whipped cream" chocolate
 ---
-## Crepes with Strawberry Sauce
-
 ![Crepes with strawberry sauce, whipped cream, and grated chocolate]({{site.baseurl}}/assets/posts/crepes-strawberry-sauce/crepes-010.jpg)
 
-It's important to keep health in mind for the Most Important Meal of the Day™, but I'm frustrated because my refrigerator won't stop running, I have to start with something sweet to make the morning a Little Bit Happier. I'm having crepes filled with a warm strawberry sauce and cool whipped cream, garnished with grated chocolate.
+It's important to keep health in mind for the Most Important Meal of the Day™, but when I'm frustrated because my refrigerator won't stop running, I have to start with something sweet to make the morning a Little Bit Happier. I'm having crepes filled with a warm strawberry sauce and cool whipped cream, garnished with grated chocolate.
 
-### Strawberry Sauce
+## Strawberry Sauce
 
 This is the perfect opportunity to use strawberries that are turning into sad, wrinkly prunes. When they've been simmered, crushed, and coated in sugar, their imperfections are turned into something beautiful.
 
@@ -32,7 +30,7 @@ The strawberries will begin to soften within 5 minutes. Once it begins to steam:
 
 This stuff is amazing when it's still hot, but make sure to wrap up the leftovers for later. It's great on crepes, pancakes, waffles, you name it.
 
-### Crepes
+## Crepes
 
 This is where it gets really saucy. These things cook real fast, so I make sure to watch an episode of Rick and Morty before cooking to keep my IQ honed and reflexes at the ready.
 
@@ -53,7 +51,7 @@ The cashew milk substitution works great, but the batter holds on for dear life 
 
 Repeat for the rest of the batter.
 
-### Plating
+## Plating
 
 My favourite part is making a dish look great on the plate. 
 
@@ -63,7 +61,7 @@ I decide to load one side up with strawberry sauce, whipped cream, and finely gr
 
 A trick is to take a small spoonful of sauce, place it on one side of the place, and sweep the sauce across to the other side of the plate using the bottom of the spoon. I didn't use this for the cover image, but it's an easy way to make a plate look great.
 
-### Final thoughts
+## Final thoughts
 
 A solid 8/10. Fun to make and a nice way to start a lazy day. I wouldn't make it all the time because they are quite sweet, but the strawberry sauce can easily be substituted for savoury fillings.
 
